@@ -2,7 +2,7 @@
 
 Com formação em Desenvolvimento de Software pela Trybe, sou desenvolvedor FullStack com foco em Front-End e tenho conhecimento nas tecnologias: Node.js, Java, TypeScript, Mysql, MongoDB, Docker, Sequelize, Mocha, Chai, JWT (JSON Web Token), Metodologias ágeis, git, Css, Html, JavaScript, Jest, React.js, RTL (React Testing Library), Redux.
 
-Meu perfil no Portifólio: [https://github.com/otaviovcn](https://otaviovcn.github.io/)
+Meu Portifólio: [https://github.com/otaviovcn](https://otaviovcn.github.io/)
 
 Sendo uma pessoa movida a desafios, interessada, curiosa, busco sempre por melhoria e na área de tecnologia, que é dinâmica, rápida e que passa por mudanças constantemente, me senti "em casa", ou seja, me identifiquei totalmente com a área e com as oportunidades que ela pode me proporcionar. Meu objetivo de carreira é sempre me atualizar, buscando conhecimento e com foco em melhoria contínua, para atender diretamente às demandas em tecnologia. A paixão por desenvolvimento back-end é o que me motiva!
 
